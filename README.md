@@ -3,14 +3,14 @@
 This repository tracks my structured journey into AI development, automation, and agent-based systems. 
 The goal is simple: build enough practical skill to deliver real automation value fast.
 
-## 🔥 What I'm Learning
+## What I'm Learning
 A focused path across:
 - AI fundamentals and model interaction
 - Automation tooling (n8n, Make, LangChain, custom scripts)
 - AI agents (planning, tool use, execution flows)
 - Practical integrations (APIs, webhooks, workflows)
 
-## 📂 Repository Structure
+## Repository Structure
 /experiments  
  Small, isolated tests exploring tools, APIs, models, and techniques.
 
@@ -26,7 +26,7 @@ A focused path across:
 /resources  
  Useful references, snippets, prompts, or configs.
 
-## 🧪 Current Progress
+## Current Progress
 - [ ] First automation workflow  
 - [ ] First local or cloud-based AI agent  
 - [ ] API integration tests (OpenAI, Anthropic, HuggingFace, etc.)  
@@ -35,12 +35,12 @@ A focused path across:
 
 I'm updating this section as I build.
 
-## 🎯 Short-Term Objectives
+## Short-Term Objectives
 1. Build a stable environment for running scripts and agents.  
 2. Create a few end-to-end automations showcasing real scenarios.  
 3. Document reusable patterns for AI-enhanced workflow design.
 
-## 🚀 Long-Term Direction
+## Long-Term Direction
 - Develop reliable automation modules.  
 - Build agent-based systems capable of tool use and decision-making.  
 - Prepare client-ready templates and examples.
